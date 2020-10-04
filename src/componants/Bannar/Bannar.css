@@ -1,0 +1,18 @@
+.bannar{
+    margin: 99px 122px 38px;
+    color: white;
+    text-align: center;
+    background: linear-gradient(90deg, #BA81FF 0%, #FF6A95 99%);
+    border-radius: 6px;
+    box-shadow: 0 20px 30px -19px rgba(160, 44, 219, 0.58);
+    height: 400px;
+}
+.bannar-img{
+    width: 400px;
+}
+.title{
+    font-size: 45px;
+    background: -webkit-linear-gradient(45deg, #f00bff, #0136cc);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
