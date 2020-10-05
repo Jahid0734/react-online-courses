@@ -1,0 +1,30 @@
+.footer-section{
+   background: #ffffff;
+   
+   font-size: 16px;
+}
+.content-section li{
+    list-style: none;
+    font-size: 17px;
+    color: #575853;
+    font-weight: 300;
+    cursor: pointer;
+}
+.subBtn{
+    padding: 6px 90px;
+    background: linear-gradient(to right, #d42af3, red);
+    border: none;
+    border-radius: none;
+    border-radius: 5px;
+    box-shadow: 0px 7px 14px 4px rgb(219 75 255 / 18%);;
+    color: white
+
+}
+input{
+    padding: 6px;
+    border-radius: 4px;
+    width: 100%;
+    background: #efefef;
+    overflow: visible;
+    margin-bottom: 15px;
+}

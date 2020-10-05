@@ -5,6 +5,7 @@ import demoCourse from './DemoCourse/DemoCourse.json';
 import Header from './componants/Header/Header';
 import Bannar from './componants/Bannar/Bannar';
 import Course from './componants/Course/Course';
+import Footer from './componants/Footer/Footer';
 
 function App() {
 
@@ -27,6 +28,7 @@ const handleAddCourse = (demoCourse) => {
     }
     </div>
     </section>
+    <Footer></Footer>
     </div>  
   );
 }
